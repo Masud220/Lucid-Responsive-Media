@@ -1,0 +1,110 @@
+
+@media(max-width:768px){
+    .navbar-brand img{
+        width: 90px;
+    }
+    .nav-item {       
+        padding-left: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {  
+        display: inline-block;
+        text-align: center; 
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .mobile {       
+        display: none; 
+    }
+    .care {
+       
+        text-align: center;
+  
+      }
+      .care h1 {
+  
+          font-size: 30px;
+      }
+
+      .mobile_my{
+        display: inherit;
+    }
+    .mobile_my{
+        width: 200px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .icom{
+        padding-top: 0 !important;
+    }
+    .btn-download {
+        font-size: 10px;
+        
+        padding: 10px 20px;
+        margin-top: 20px;
+    }
+    .btn-features {       
+       
+        padding: 9px 15px;
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size: 10px;
+    }
+    .contact_section {      
+        padding-bottom: 700px;     
+    }
+    .from_section {      
+        width: 650px;     
+    }
+}
+
+@media(max-width:575px){
+
+    .magna{
+        margin-bottom: 20px;
+    }
+
+
+    .like h1 {
+        
+        font-size: 20px;
+    }
+    .like h3 {
+        
+        font-size: 20px;
+    }
+    .plan span {
+        
+        margin-top: 19px;
+        margin-bottom: 35px;
+        
+    } 
+    .btn-viwe {
+        
+        padding: 7px 14px;
+        margin-right: 9px;
+        font-weight: 500;
+    }
+    
+    .btn-don {
+        
+        padding: 7px 6px;
+        margin-left: 0 !important;
+        margin-top: 0 !important;
+        font-weight: 400;
+    }
+    .contact_section {
+        padding-top: 20px;
+        padding-bottom: 600px;
+    }
+   
+   
+    .from_section {
+        
+        padding: 10px;
+        margin-bottom: 10px;
+        width: 90%;
+        bottom: -100px;
+      
+    }
+}
